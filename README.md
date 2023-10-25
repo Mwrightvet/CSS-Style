@@ -39,7 +39,7 @@ The following image demonstrates the web application's appearance and functional
 
 Completed Work: 
 
-![image](https://github.com/Mwrightvet/CSS-Style/assets/50971489/fb2cc122-49a9-4285-8535-ad2426de6e9b)
+![image](https://github.com/Mwrightvet/CSS-Style/assets/50971489/6014a4e3-5eeb-4f80-99c9-301db59c3ed2)
 
 
 ## 💡 Hints
