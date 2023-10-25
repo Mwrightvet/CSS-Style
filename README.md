@@ -37,6 +37,11 @@ The following image demonstrates the web application's appearance and functional
 
 ---
 
+Completed Work: 
+
+![image](https://github.com/Mwrightvet/CSS-Style/assets/50971489/fb2cc122-49a9-4285-8535-ad2426de6e9b)
+
+
 ## 💡 Hints
 
 How can we use the `<link>` element inside the `<head>` to connect the HTML to the CSS?
